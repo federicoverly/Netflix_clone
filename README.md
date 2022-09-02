@@ -18,8 +18,6 @@ npm start
 
 to start the application.
 
-You can also take a look at the live project [here](https://coder-ecommerce-ejemplo.vercel.app/)
-
 ## Libraries
 
 ### Firebase
